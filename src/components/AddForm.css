@@ -1,0 +1,41 @@
+.pink{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: pink;
+}
+.purple{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: purple;
+}
+.blue{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: blue;
+}
+.yellow{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: yellow;
+}
+.green{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: green;
+}
+.color{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+/* .saveBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
